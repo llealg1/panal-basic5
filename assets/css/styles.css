@@ -1,0 +1,117 @@
+.cards {
+  border: none;
+  border-radius: 0;
+  margin: 5px;
+  background-color: #424949;
+  color: #fff;
+}
+
+.card-body {
+  padding-top: 0;
+}
+
+.badges button {
+  border: none;
+}
+
+.badges button:nth-child(1) {
+  background-color: #707b7c;
+  color: #fff;
+  margin-left: 5px;
+}
+.badges button:nth-child(2) {
+  background-color: #555e5e;
+  color: #fff;
+  margin-left: 5px;
+}
+
+.badges h5 {
+  color: #424949;
+  margin-right: 5px;
+}
+
+.background-image {
+  background-color: #fff;
+}
+
+.dot {
+  margin-right: 10px;
+  margin-left: 10px;
+  font-size: 20px;
+}
+
+.specs p {
+  margin-bottom: 0;
+}
+
+#contact textarea {
+  resize: none;
+  width: 100%;
+  height: 100px;
+  padding: 10px;
+  border-radius: 0;
+  border: 2px solid #424949;
+  color: #424949;
+}
+
+#contact button {
+  padding-left: 4rem;
+  padding-right: 4rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  border: 2px solid #424949;
+  background-color: #fff;
+  color: #424949;
+}
+
+#contact input {
+  width: 50%;
+  padding: 5px;
+  border: 2px solid #424949;
+  color: #424949;
+}
+
+#footer {
+  display: grid;
+  align-items: center;
+  background-color: #555e5e;
+  color: #fff;
+}
+
+.brands {
+  display: flex;
+  font-size: 2.5rem;
+  justify-content: center;
+  align-items: center;
+}
+
+.brands i {
+  margin-right: 20px;
+}
+
+.brands-contact {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.search-bar {
+  padding: 1rem;
+  background-color: #424949;
+  color: #fff;
+}
+
+.search-bar select {
+  background-color: #424949;
+  border: 1px solid #fff;
+  color: #fff;
+  font-size: 20px;
+}
+
+.search-bar i {
+  font-size: 24px;
+}
+
+.seller {
+  border-radius: 50%;
+}
